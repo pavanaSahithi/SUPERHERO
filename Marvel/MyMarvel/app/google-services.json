@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957327811090",
+    "firebase_url": "https://superhero-f2d68.firebaseio.com",
+    "project_id": "superhero-f2d68",
+    "storage_bucket": "superhero-f2d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957327811090:android:beb3fdba8956380a",
+        "android_client_info": {
+          "package_name": "pavanasahithi.mymarvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957327811090-01d65bek5304fual1b9htgu77f7p4snv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW4IUMaORetNGspqQdeqsrYKN_Fddn9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
